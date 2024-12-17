@@ -1,0 +1,8 @@
+output
+default_checkpoints
+detections.json
+
+weights
+checkpoint_iter_370000.pth
+mobilenet_sgd_68.848.pth.tar
+openpose.jit
